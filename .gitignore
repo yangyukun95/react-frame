@@ -1,0 +1,7 @@
+/node_modules/
+/dist/
+*.log*
+yarn.lock
+src.zip
+package-lock.json
+dist.zip

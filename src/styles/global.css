@@ -1,0 +1,6 @@
+@import './vars.css';
+
+:global .mr10 {
+  margin-left: 0;
+  margin-right: 10px;
+}
